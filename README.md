@@ -1,4 +1,10 @@
+# Edward Irby (he/him)
+Design technologist specializing in design systems and Front-End Architecture
+
 ### Hi there 👋
+- 🔭 I’m currently working on [plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
+- 🌱 I’m currently learning Dart/Flutter
+- 💬 Ask me about systemic issues and leveraging tech
 
 <!--
 **EdwardIrby/edwardirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
