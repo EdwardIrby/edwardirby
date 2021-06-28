@@ -1,5 +1,4 @@
-# Edward Irby (he/him)
-Design technologist specializing in design systems and Front-End Architecture
+**Design technologist specializing in design systems and Front-End Architecture**
 
 ### Hi there 👋
 - 🔭 I’m currently working on [plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
