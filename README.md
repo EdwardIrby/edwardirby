@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on:
-  - Pluralsight design system
+  - [Pluralsight design system](https://github.com/pluralsight/design-system)
   - [Plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
 - 🌱 I’m currently learning: 
   - React Native and Firebase
-  - Dart (conversion of behaviroal module from [plaited](https://github.com/plaited/plaited) to dart lang)
+  - Dart (conversion of behaviroal module from plaited to dart lang)
 - 💬 Ask me about systemic issues and leveraging tech
 
 <!--
