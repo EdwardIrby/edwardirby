@@ -1,8 +1,12 @@
 **Design technologist specializing in design systems and Front-End Architecture**
 
 ### Hi there 👋
-- 🔭 I’m currently working on [plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
-- 🌱 I’m currently learning React Native and Firebase
+- 🔭 I’m currently working on:
+  - Pluralsight design system
+  - [Plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
+- 🌱 I’m currently learning: 
+  - React Native and Firebase
+  - Dart (conversion of behaviroal module from [plaited](https://github.com/plaited/plaited) to dart lang)
 - 💬 Ask me about systemic issues and leveraging tech
 
 <!--
