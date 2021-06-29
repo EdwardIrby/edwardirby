@@ -5,7 +5,7 @@
   - [Pluralsight design system](https://github.com/pluralsight/design-system)
   - [Plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
 - 🌱 I’m currently learning: 
-  - React Native and Firebase
+  - React Native
   - Dart (conversion of behaviroal module from plaited to dart lang)
 - 💬 Ask me about systemic issues and leveraging tech
 
