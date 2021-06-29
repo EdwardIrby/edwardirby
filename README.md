@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on [plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
-- 🌱 I’m currently learning Dart/Flutter
+- 🌱 I’m currently learning React Native and Firebase
 - 💬 Ask me about systemic issues and leveraging tech
 
 <!--
