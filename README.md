@@ -3,9 +3,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
   - [Pluralsight design system](https://github.com/pluralsight/design-system)
-  - [Plaited](https://github.com/plaited/plaited) a JS toolkit for creating PWAs
+  - [Plaited](https://github.com/plaited/plaited)
 - 🌱 I’m currently learning: 
-  - React Native
   - Dart (conversion of behaviroal module from plaited to dart lang)
 - 💬 Ask me about systemic issues and leveraging tech
 
