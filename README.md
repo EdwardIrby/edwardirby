@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on:
-  - [Pluralsight design system](https://github.com/pluralsight/design-system)
+  - Xbox Design system
   - [Plaited](https://github.com/plaited/plaited)
 - 🌱 I’m currently learning: 
-  - Dart (conversion of behaviroal module from plaited to dart lang)
+  - To relax
 - 💬 Ask me about systemic issues and leveraging tech
 
 <!--
