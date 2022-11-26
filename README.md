@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on:
   - Xbox Design system
-  - [Plaited](https://github.com/plaited/plaited)
+  - [Plaited](https://github.com/plaited)
 - 🌱 I’m currently learning: 
   - To relax
 - 💬 Ask me about systemic issues and leveraging tech
