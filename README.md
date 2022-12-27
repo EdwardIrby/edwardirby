@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on:
-  - Xbox Design system
   - [Plaited](https://github.com/plaited)
 - 🌱 I’m currently learning: 
   - To relax
