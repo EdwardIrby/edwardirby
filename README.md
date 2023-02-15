@@ -1,11 +1,11 @@
 **Design technologist specializing in design systems and Front-End Architecture**
 
 ### Hi there 👋
-- 🔭 I’m currently working on:
-  - [Plaited](https://github.com/plaited)
-- 🌱 I’m currently learning: 
-  - To relax
-- 💬 Ask me about systemic issues and leveraging tech
+- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited)
+
+Plaited is a fullstack framework targeting [Deno](https://deno.land/). It is design system first, design token first and leverages frontend best practices to develop highly dynamic server rendered web apps. It incorporates a reactive programming algorithm, behavioral programming combined with actor model messaging patterns and island architecture. It is designed to generate embeddings & prompts from documentation, design tokens, and component stories. A user can then query the system for information or generate interfaces using design system patterns.
+
+- 🏋🏿‍♀ I’m currently learning to exercise regularly again 😂
 
 <!--
 **EdwardIrby/edwardirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
