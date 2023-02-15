@@ -1,11 +1,19 @@
 **Design technologist specializing in design systems and Front-End Architecture**
 
 ### Hi there 👋
-- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited)
+- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited):
+  - Open source full stack web framework for Deno
+  - Inspired by Stimulus and Catalyst libraries
+  - Design system first, design token first
+  - Built in UI workshop and playwright test codegen
+  - Enables the development highly dynamic server rendered web apps
+  - Incorporates behavioral programming algorithm with actor model messaging patterns and island architecture
+  - Designed to generate OpenAI embeddings & prompts from documentation, design tokens, and component stories so that users can query the system for information or generate interfaces using design system patterns
 
-Plaited is a fullstack framework targeting [Deno](https://deno.land/). It is design system first, design token first and leverages frontend best practices to develop highly dynamic server rendered web apps. It incorporates a reactive programming algorithm, behavioral programming combined with actor model messaging patterns and island architecture. It is designed to generate embeddings & prompts from documentation, design tokens, and component stories. A user can then query the system for information or generate interfaces using design system patterns.
 
-- 🏋🏿‍♀ I’m currently learning to exercise regularly again 😂
+- 🌱 I’m currently learning:
+  - To exercise regularly again 😂
+  - ...
 
 <!--
 **EdwardIrby/edwardirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
