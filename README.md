@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited):
-  - Open source full stack web framework for Deno
+  - Open source full stack web framework (now targeting Deno)
   - Inspired by Stimulus and Catalyst libraries
-  - Design system first, design token first
-  - Built in UI workshop and playwright test codegen
+  - Design system first, design token first, web component first
   - Enables the development highly dynamic server rendered web apps
-  - Incorporates behavioral programming algorithm with actor model messaging patterns and island architecture
-  - Designed to generate OpenAI embeddings & prompts from documentation, design tokens, and component stories so that users can query the system for information or generate interfaces using design system patterns
+  - Native component hydration via declarative shadow dom
+  - Incorporates behavioral programming algorithm with actor model 
+ messaging patterns and island architecture
 
 
 - 🌱 I’m currently learning:
