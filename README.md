@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited):
-  - Open source full stack web framework (now targeting Deno)
   - Inspired by Stimulus and Catalyst libraries
   - Design system first, design token first, web component first
   - Enables the development highly dynamic server rendered web apps
