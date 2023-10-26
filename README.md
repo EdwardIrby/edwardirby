@@ -1,7 +1,7 @@
 **Design technologist specializing in design systems and Front-End Architecture**
 
 ### Hi there 👋
-- 🔭 I’m currently working on [Plaited](https://github.com/plaited):
+- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited):
   - Inspired by Stimulus and Catalyst libraries
   - Design system first, design token first, web component first
   - Enables the development highly dynamic server rendered web apps
