@@ -1,7 +1,7 @@
 **Design technologist specializing in design systems and Front-End Architecture**
 
 ### Hi there 👋
-- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited) a designs system first framework for rapidly developing interfaces.
+- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited): Design system first framework for rapidly developing interfaces.
 
 - 🌱 I’m currently learning:
   - To exercise regularly again 😂
