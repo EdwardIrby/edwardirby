@@ -1,23 +1,14 @@
-**Design technologist specializing in design systems and Front-End Architecture**
+  # Edward Irby
 
-### Hi there 👋
-- 🔭 I’m currently working on [Plaited](https://github.com/plaited/plaited), a design system first framework for rapidly designing & developing interfaces.
+  **Agentic Design Technologist** · Portland, OR
 
-- 🌱 I’m currently learning:
-  - To exercise regularly again 😂
-  - ...
+  I've been chasing generative UI long before LLMs existed.
 
-<!--
-**EdwardIrby/edwardirby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Design systems. Microinteractions. Structural IA. Behavioral programming. LLMs made generation real. These ideas made it structured.
 
-Here are some ideas to get you started:
+  **[Plaited](https://github.com/plaited/plaited)** · Browser as world model. Stories as ground truth. Neuro-symbolic generative UI. *Generative UI Agent development in progress.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [ACP Harness](https://github.com/plaited/acp-harness) · [Development Skills](https://github.com/plaited/development-skills) · [Skills
+  Installer](https://github.com/plaited/skills-installer)
+
+  **[DX Toolkit](https://github.com/youdotcom-oss/dx-toolkit)** · You.com
