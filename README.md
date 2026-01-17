@@ -1,5 +1,3 @@
-  # Edward Irby
-
   **Agentic Design Technologist** · Portland, OR
 
   I've been chasing generative UI long before LLMs existed.
